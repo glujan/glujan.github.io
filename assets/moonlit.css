@@ -1,0 +1,10 @@
+.post-tags ul {
+    display: inline;
+    margin: 0 5px;
+}
+
+.post-tags li {
+    display: inline;
+    padding: 1px 3px;
+    background-color: #ececec;
+}
