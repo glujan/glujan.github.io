@@ -1,7 +1,7 @@
 ---
 title:  "A point or two about CI"
 date:   2017-03-04 10:00:00 +0100
-categories: gn17 devops
+categories: GN17 devops
 ---
 
 After a few weeks - or maybe even months - of whole team's hard work, after
