@@ -8,7 +8,7 @@ Recently I have written [a post] about what CI is and how it can help in
 managing a project. Now I would like to show how easly anybody can start using
 it.
 
-[a post]: http://blog.moonscape.pl/post/a-point-or-two-about-ci/
+[a post]: {{ site.baseurl }}{% post_url 2017-03-05-a-point-or-two-about-ci %}
 
 
 ## Choosing a CI service
