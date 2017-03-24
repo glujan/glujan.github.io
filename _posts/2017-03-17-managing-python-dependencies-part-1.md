@@ -1,5 +1,5 @@
 ---
-title:  "Managing Python dependencies - Part 1"
+title:  "Managing Python dependencies - installation"
 date:   2017-03-17 11:00:00 +0100
 categories: GN17 python tools
 ---
@@ -9,6 +9,11 @@ In the first part of this mini-series I would like to explain how an user can:
  * install a Python package,
  * pin version of dependency,
  * save dependencies for later.
+
+You can also browse other posts from this mini-series:
+
+ * Part 1: Installation (current)
+ * [Part 2: Venvs]({{ site.baseurl }}{% post_url 2017-03-24-managing-python-dependencies-part-2 %})
 
 ## Installing packages 
 
