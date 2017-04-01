@@ -56,6 +56,6 @@ Grzegorz with a nice new sticker is a happy Grzegorz.
 
 And why a dwarf is on a sticker, you may ask? Well, dwarves are one of Wrocław
 symbols. If you visit a city, you can even [meet some of them], no kidding! As
-of today a population is 165 (little) people and counting :-)
+of today a population is ~~165~~ 295 (little) people and counting :-)
 
 [meet some of them]: http://krasnale.pl/en/
